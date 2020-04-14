@@ -1,7 +1,7 @@
 //キャッシュファイル指定
 var CASH_NAME = 'pwa-sample-caches';
 var urlToCache= [
-  '/poster-keisuke.github.io/',
+  '/DetectiveTakami.github.io/',
 ];
 
 //インストール処理
